@@ -1,0 +1,62 @@
+h1 {
+    color: salmon;
+    text-align: center;
+    border: 4px dashed tomato;
+    outline: 4px dashed black;
+    padding: 10px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    /* direction: rtl; */
+    text-shadow: 3px 2px 4px skyblue;
+
+
+}
+
+p {
+    text-align: justify;
+    line-height: 25px;
+    text-transform: capitalize;
+    text-indent: 25px;
+}
+.done {
+    text-decoration: line-through;
+}
+
+a {
+    color: salmon;
+    text-decoration: none;
+}
+a:hover {
+    color: skyblue;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: green;
+}
+a:before {
+    content: '';
+    width: 40px;
+    height: 2px;
+    background: green;
+}
+.button {
+    width: 80px;
+    height: 80px;
+    background: skyblue;
+    color: white;
+    border-radius: 50%;
+    box-sizing: border-box;
+    position: fixed;
+    bottom: 100px;
+    right: 100px;
+    text-align: center;
+    padding: 10px;
+}
+
+.button span {
+    padding-top: 15px;
+    font-size: 24px;
+    display: inline-block;
+
+}
