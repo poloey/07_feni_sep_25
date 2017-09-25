@@ -8,7 +8,7 @@ border: 1px solid salmon;
 ~~~css
 outline: 1px solid salmon;
 ~~~
-border and outline both has same style `solid` `dotted` `dashed` so on
+`border` and `outline` both has same style `solid` `dotted` `dashed` so on
 
 ### text-align 
 ~~~css
