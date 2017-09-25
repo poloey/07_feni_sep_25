@@ -1,4 +1,4 @@
-# class 7: sneak peak of some css
+# class 7: sneak peek of some css
 
 ### border 
 ~~~css
