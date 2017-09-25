@@ -94,9 +94,9 @@ e.g: Using facebook icon
 * `after`
 * `nth-child`
 * `first-child`
-* `last-child`
+* `last-child`   
 more pseudo class [w3schools](https://www.w3schools.com/css/css_pseudo_classes.asp)   
-incase of `before` `after` pseudo selector you have to use `content`
+incase of `before` `after` pseudo selector you have to use `content` property.
 ~~~css
 h1 {
 
