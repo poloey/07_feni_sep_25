@@ -60,7 +60,10 @@ how much space should be in between 2 lines
 ~~~css
 text-shadow: 2px 3px 3px red;
 ~~~
-Here `text-shadow` took 4 arguments. `text-shadow: horizontal-shadow, vertical-shadow how_much_blur_should_be, color`
+Here `text-shadow` took 4 arguments. ``
+~~~css
+text-shadow: horizontal-shadow vertical-shadow how-much-blur color;
+~~~
 
 
 ### font-style
