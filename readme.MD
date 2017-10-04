@@ -1,5 +1,7 @@
-# class 7: sneak peek of some css
+# Class 07
 ### View [all class list](https://github.com/poloey/feni)
+
+# sneak peek of some css
 
 ### border 
 ~~~css
