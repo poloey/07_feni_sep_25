@@ -1,5 +1,6 @@
 # Class 07
-### View [all class list](https://github.com/poloey/feni)
+### View [all class list](https://poloey.github.io/feni/)
+
 
 # sneak peek of some css
 
