@@ -1,6 +1,5 @@
+# [:house: Feni Batch Home Page](http://poloey.github.io/feni)
 # Class 07
-### View [all class list](https://poloey.github.io/feni/)
-
 
 # sneak peek of some css
 
